@@ -1,4 +1,5 @@
 # ScoreApp
+Application to calculate the score in basketball game
 
 - ViewBinding
 - Navigation
