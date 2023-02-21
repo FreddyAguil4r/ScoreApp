@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_style">
+        <item name="android:backgroundTint">@color/light_green_color</item>
+        <item name="android:fontFamily">@font/squada_one</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
